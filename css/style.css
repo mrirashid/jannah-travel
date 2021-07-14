@@ -728,7 +728,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
     text-decoration: none;}
     /* Footer area  */
 .footer{
-        background: url(../images/footer.jpeg) no-repeat center/cover;
+        background: url(../images/footerBG.jpeg) no-repeat center/cover;
         height: auto;
     }
 .footer-title h4{
