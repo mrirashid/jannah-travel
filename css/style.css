@@ -728,11 +728,8 @@ nav.navbar.navbar-expand-lg.navbar-light {
     text-decoration: none;}
     /* Footer area  */
 .footer{
-<<<<<<< HEAD
+
         background: url(../images/footerBG.jpeg) no-repeat center/cover;
-=======
-        background: url(../images/asset\ 46.jpeg) no-repeat center/cover;
->>>>>>> 91b99e069ec10359b474f62f3b7b2594798834d9
         height: auto;
     }
 .footer-title h4{
